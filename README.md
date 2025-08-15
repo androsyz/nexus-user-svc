@@ -1,1 +1,1 @@
-# go-rabbitmq
+# nexus-user-svc
